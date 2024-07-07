@@ -1,5 +1,5 @@
 "use client";
-import { useProfileStore } from "@/store";
+import { useProfileStore } from "../store";
 import { User } from "@/app/types";
 import { useRouter } from "next/navigation";
 import { useEffect, useState } from "react";
