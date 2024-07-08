@@ -1,6 +1,12 @@
-// src/app/store.ts
+// src/store/index.ts
+import create from "zustand";
 
-export const useProfileStore = () => {
-    // Your store implementation
-  };
-  
+interface ProfileState {
+  hideProfile: boolean;
+  setHideProfile: (hide: boolean) => void;
+}
+
+export const useProfileStore = create<ProfileState>((set) => ({
+  hideProfile: false,
+  setHideProfile: (hide) => set({ hideProfile: hide }),
+}));
