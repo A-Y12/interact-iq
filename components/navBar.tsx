@@ -8,7 +8,7 @@ import { UserCircleIcon } from "@heroicons/react/24/solid";
 import toast from "react-hot-toast";
 import { User } from "@/app/types";
 import Image from "next/image";
-import { useProfileStore } from "@/app/store";
+import { useProfileStore } from "@/store";
 import cleverchatterLogo from "/public/cleverchatterLogo.png";
 // import cleverchatter from "public/cleverchatter.svg";
 
