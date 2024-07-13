@@ -1,20 +1,18 @@
-## CleverChatter - AI GitHub Repository Crawler for Technical Interview Prep
+## Interact_IQ - AI GitHub Repository Crawler for Technical Interview Prep
 
 ![cleverchatter readme cover](https://github.com/Vancelott/CleverChatter/assets/129599049/c292d8e4-fdcb-4529-8b47-2632d6f5b4cb)
 
-CleverChatter is an AI-powered GitHub repository crawler designed to assist users in preparing for technical interviews. Leveraging TypeScript, Next.js, Tailwind CSS, MongoDB, Prisma, NextAuth, Hugging Face.js, Octokit and Framer Motion, this project provides a unique approach to generating insightful questions based on the code of a selected GitHub project.
+Interact_IQ  is an AI-powered GitHub repository crawler designed to assist users in preparing for technical interviews. Leveraging TypeScript, Next.js, Tailwind CSS, MongoDB, Prisma, NextAuth, Hugging Face.js, Octokit and Framer Motion, this project provides a unique approach to generating insightful questions based on the code of a selected GitHub project.
 
 ## Note:
 
-CleverChatter is currently operating with limited functionality due to the unavailability of free AI models capable of generating both code and coding-related questions and being conversational at the same time. Once possible, the model will be switched out to one which meets the aforementioned requirements.
+Interact_IQ is currently operating with limited functionality due to the unavailability of free AI models capable of generating both code and coding-related questions and being conversational at the same time. Once possible, the model will be switched out to one which meets the aforementioned requirements.
 
-## Live Preview
 
-You can check out the live demo of Cleverchatter at: https://cleverchatter.vercel.app/
 
 ## Features
 
-- **Code Analysis for Interviews**: CleverChatter analyzes your GitHub repository's code and generates relevant technical questions to help you prepare for interviews.
+- **Code Analysis for Interviews**: It_ analyzes your GitHub repository's code and generates relevant technical questions to help you prepare for interviews.
 
 - **TypeScript and Next.js**: Developed using TypeScript and Next.js for a robust and efficient codebase.
 
@@ -32,12 +30,12 @@ You can check out the live demo of Cleverchatter at: https://cleverchatter.verce
 
 1. Clone the repository:
    ```
-   git clone https://github.com/vancelott/cleverchatter.git
+   git clone 
    ```
 
 2. Navigate to the project directory:
    ```
-   cd cleverchatter
+   cd interact_iq
    ```
 
 3. Install dependencies:
@@ -81,4 +79,4 @@ You can check out the live demo of Cleverchatter at: https://cleverchatter.verce
 
 ## Contributing
 
-Contributions to CleverChatter are welcome! If you encounter bugs, have feature suggestions, or want to make improvements, feel free to submit a pull request. Your contributions will help enhance the platform and make it better for everyone.
+Contributions to Interact_IQ are welcome! If you encounter bugs, have feature suggestions, or want to make improvements, feel free to submit a pull request. Your contributions will help enhance the platform and make it better for everyone.
