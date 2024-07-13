@@ -30,7 +30,7 @@ Interact_IQ is currently operating with limited functionality due to the unavail
 
 1. Clone the repository:
    ```
-   git clone 
+   git clone git@github.com:A-Y12/interact-iq.git
    ```
 
 2. Navigate to the project directory:
